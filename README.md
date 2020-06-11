@@ -9,4 +9,4 @@ Description of problem sets:
  - ps4 : Encrypter and Decrypter for Caesar and Substitution ciphers
  - ps5 : A tool to filter latest news stories according to user preferences
 
-Note : In ps5, the feedparser was unable to parse yahoo news due to attribute error - specifically the entry had no attribute description. So, I have commented it out. Please contact me   
+Note : In ps5, the feedparser was unable to parse yahoo news due to attribute error - specifically the entry had no attribute description. So, I have commented it out.
